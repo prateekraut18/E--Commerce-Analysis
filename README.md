@@ -9,6 +9,7 @@ This project provides a comprehensive dashboard analyzing order, payment, review
 - **City-wise Average Price and Payment Insights**
 - **Category-wise Delivery Time Comparison**
 
+
 ## 🤔 Why the Project Is Useful
 - **Business Insights:** Helps businesses understand customer behavior, payment trends, and operational performance.
 - **Improvement Areas:** Identifies where improvement is needed (e.g., delivery times, cancellations).
