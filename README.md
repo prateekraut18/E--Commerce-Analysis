@@ -88,7 +88,7 @@ Join ongoing discussions or start new threads in the [Discussions](https://githu
 
 - ## 👩‍💻 Author
 **Pratik Raut**  
-Data Analyst | E-Commerce Analytics | Tableau & Power BI Developer (https://github.com/prateekraut18/E--Commerce-Analysis/edit/main/README.md)
+Business Analyst | E-Commerce Analytics | Tableau & Power BI Developer (https://github.com/prateekraut18/E--Commerce-Analysis/edit/main/README.md)
 
 - **Contributors:**  
 Contributions are welcome! Check the `CONTRIBUTORS.md` to see all contributors and learn how to contribute.
